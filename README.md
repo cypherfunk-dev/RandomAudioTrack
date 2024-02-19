@@ -9,6 +9,8 @@ Se utilizó una placa NodeMCU v3, un DFPlayer, un parlante de 3 W.
 Los Pines utilizados son los siguientes:
 
 **D1 = RX**
+
 **D2 = TX**
+
 **D3 = Button**
 
